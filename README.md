@@ -10,7 +10,7 @@ Ingegneria Informatica, Politecnico di Milano - A.A. 2019-2020
       inclusi). Il testo che segue il comando deve essere fatto di un numero di
       righe pari a ind2-ind1+1. ind1 deve essere o un indirizzo effettivamente
       presente nel testo, oppure il primo indirizzo dopo l’ultima riga presente
-      nel testo (o 1 se il testo `e ancora vuoto).
+      nel testo (o 1 se il testo e ancora vuoto).
 ### (ind1,ind2)d
       Cancella le righe comprese tra ind1 ed ind2 (estremi inclusi), spostando
       verso l’alto le righe successive a quella di indirizzo ind2 (se ce ne sono).
