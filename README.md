@@ -1,4 +1,4 @@
-# edU
-API project for PoliMi
+Prova finale di API
+Progetto di Algoritmi e Strutture Dati.
 
-ed-based CLI text editor, which adds the unlimited undo and redo functionality. Does not support file saving
+Ingegneria Informatica, Politecnico di Milano - A.A. 2019-2020
