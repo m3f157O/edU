@@ -19,7 +19,7 @@ struct confnode
 typedef struct confnode* conflist;
 
 #define TOP 100000000
-list hash[TOP];// RENDERE A LISTE CONCATENATE
+list hash[TOP];// RENDERE DINAMICO, ORA RADDOPPIA LA D
 
 void newhead(stringa c,list *l)                 //crea pezzo di lista
 {
