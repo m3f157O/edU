@@ -1,11 +1,13 @@
-Prova finale di API
-Progetto di Algoritmi e Strutture Dati.
+# Prova finale di API
+## Progetto di Algoritmi e Strutture Dati.
 
-Ingegneria Informatica, Politecnico di Milano - A.A. 2019-2020
+Ingegneria Informatica, Politecnico di Milano - A.A. 2019-2020.
+
 I comandi supportati sono i seguenti, con la convenzione che ind1,ind2
 indicano due specificatori di indirizzo tali che ind1 ≤ ind2 e le parentesi tonde
 sono introdotte per semplicita di lettura di questo testo, ma non incluse nel
 comando:
+
 `(ind1,ind2)c`
 Cambia il testo presente alle righe comprese tra ind1 ed ind2 (estremi
 inclusi). Il testo che segue il comando deve essere fatto di un numero di
