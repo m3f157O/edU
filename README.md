@@ -5,7 +5,7 @@ Ingegneria Informatica, Politecnico di Milano - A.A. 2019-2020
 
 # Specifiche:
 ## Comandi
-###(ind1,ind2)c
+### (ind1,ind2)c
       Cambia il testo presente alle righe comprese tra ind1 ed ind2 (estremi
       inclusi). Il testo che segue il comando deve essere fatto di un numero di
       righe pari a ind2-ind1+1. ind1 deve essere o un indirizzo effettivamente
@@ -15,6 +15,7 @@ Ingegneria Informatica, Politecnico di Milano - A.A. 2019-2020
       Cancella le righe comprese tra ind1 ed ind2 (estremi inclusi), spostando
       verso l’alto le righe successive a quella di indirizzo ind2 (se ce ne sono).
       La cancellazione di una riga che non esiste nel testo non ha alcun effetto.
+      
 # (ind1,ind2)p
 Stampa le righe comprese tra ind1 ed ind2 (o tra ind1 e la fine del testo
 se ind2 non corrisponde ad alcun indirizzo nel testo). Per ogni riga non
