@@ -5,7 +5,7 @@ Ingegneria Informatica, Politecnico di Milano - A.A. 2019-2020
 
 # Specifiche:
 ## Comandi
-### (ind1,ind2)c
+' (ind1,ind2)c '
       Cambia il testo presente alle righe comprese tra ind1 ed ind2 (estremi
       inclusi). Il testo che segue il comando deve essere fatto di un numero di
       righe pari a ind2-ind1+1. ind1 deve essere o un indirizzo effettivamente
