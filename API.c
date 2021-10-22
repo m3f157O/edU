@@ -18,8 +18,8 @@ struct confnode
 };
 typedef struct confnode* conflist;
 
-#define TOP 100000000
-list hash[TOP];// RENDERE DINAMICO, ORA RADDOPPIA LA D
+#define TOP 10000
+list hash[TOP];// PER ORA FAVORISCE L'ACCESSO DIRETTO. TODO TRASFORMARE IN ARRAY DINAMICO
 
 void newhead(stringa c,list *l)                 //crea pezzo di lista
 {
